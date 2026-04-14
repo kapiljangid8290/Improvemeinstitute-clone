@@ -1,1 +1,0 @@
-self.__BUILD_MANIFEST = (function(a){return {__rewrites:{afterFiles:[],beforeFiles:[{has:a,source:"\u002F",destination:"\u002Fmirror-proxy"},{has:a,source:"\u002F:path((?!_next\u002Fimage).*)",destination:"\u002Fmirror-proxy\u002F:path*"}],fallback:[]},sortedPages:["\u002F_app"]}}(void 0));self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()
