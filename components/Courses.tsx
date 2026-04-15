@@ -52,7 +52,7 @@ export default function Courses() {
       <div className="section-container">
         <div className="mb-10 flex flex-col gap-4 md:flex-row md:items-end md:justify-between">
           <div>
-            <p className="text-sm font-semibold uppercase tracking-[0.3em] text-slate-400">Courses</p>
+            <p className="text-sm font-semibold uppercase tracking-[0.3em] text-slate-400">Courses.</p>
             <h2 className="mt-3 font-[var(--font-jakarta)] text-3xl font-bold tracking-tight text-navy-900 md:text-4xl">
               Leading Tutoring Centre in Dubai
             </h2>
